@@ -1,6 +1,15 @@
 # Weather
  Unreal Engine plugin to check the weather in different cities
 
+# Api Info
+The token in use for the API is not valid, you have to create an account here: [Weather API](https://openweathermap.org/).
+
+Then you have to make a subscription for this product: [One Call API 3.0](https://openweathermap.org/api/one-call-3).
+
+The subscription is free as long as you don't exceed 1000 calls a day.
+
+You can set the maximum calls before blocking the request in the settings, it can be useful to set the limit to 1000 so you won't exceed it accidentally.
+
 # 2 Different Style that can be changed in the settings
 
 ## Dark
