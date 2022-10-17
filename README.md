@@ -10,6 +10,8 @@ The subscription is free as long as you don't exceed 1000 calls a day.
 
 You can set the maximum calls before blocking the request in the settings, it can be useful to set the limit to 1000 so you won't exceed it accidentally.
 
+The token has to be inserted here Plugins\Weast\Source\Weast\Private\Models\WeastModel.cpp
+
 # 2 Different Style that can be changed in the settings
 
 ## Dark
